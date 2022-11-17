@@ -25,11 +25,21 @@ Dette dokument er vores besvarelse for den Take-Home Eksamen til Studieintrodukt
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.75\textwidth]{Opgave 2.png}
-    \caption{Vores besvarelse af opgave 2.}
     \label{fig:opgave 2 besvarelse}
 \end{figure}
 I opgave A er den første sandt, fordi lige meget hvilken x-værdi vi finder, eksisterer en y-værdi som er større. \\ 
 Den anden er falsk, fordi der ikke kun eksisterer et y; der eksisterer mange.\\
 Den tredje er også falsk, fordi der ikke eksisterer nogen y, hvor alle x-værdier er mindre. 
 
+
+\section{Opgave 3: DM549 reeksamen februar 2015}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{Opgave 3 beskrivelse.png}
+    \label{fig:opgave 3 opgavebeskrivelse}
+\end{figure}
+
+I opgave 3a kan vi se en graf der visualisere relationen og dermed viser at det er en partiel ordning. Grunden til at den er partiel, er fordi den både er refleksiv , antisymmetrisk og transitiv.
+I opgave b skulle vi lave en transitiv lukning og det har vi gjort. Lukningen er {(1,3}
+I opgave c skulle vi skrive ækvivalensklassen for ækvivalensrelationen T.
 \end{document}
