@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-
+\usepackage{graphicx}
+\graphicspath{{images/}}
 \title{Take-Home Eksamen for DM500 Studieintroduktion til Datalogi}
 \author{Hold 7, Studiegruppe 9: Diego Fernández (difer22), Salma Rashid (sakha22)}
 \date{\today}
@@ -11,5 +12,16 @@
 \maketitle
 
 \section{Introduction}
+\section{Opgave 2: DM549 reeksamen februar 2015}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{Opgave 2 beskrivelse.png}
+    \label{fig:opgave 2 opgavebeskrivelse}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{Opgave 2.png}
+    \label{fig:opgave 2 besvarelse}
+\end{figure}
 
 \end{document}
